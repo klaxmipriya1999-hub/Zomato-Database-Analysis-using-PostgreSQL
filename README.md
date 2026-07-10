@@ -1,6 +1,6 @@
 # Zomato-Database-Analysis-using-PostgreSQL
 
-**Project Overview**
+# **Project Overview**
 
 This project demonstrates the end-to-end process of designing, implementing, and analyzing a relational database using PostgreSQL.
 
@@ -8,7 +8,7 @@ Instead of working with an already created database, the complete database schem
 
 The project simulates a real-world food delivery platform similar to Zomato.
 
-**Project Workflow**
+# **Project Workflow**
 
 **Step 1: Database Design**
 Created a new PostgreSQL database in pgAdmin.
@@ -58,7 +58,7 @@ Coupon usage analysis
 Payment method analysis
 Monthly order trends
 
-**Database Schema**
+# **Database Schema**
 
 The database consists of 11 relational tables.
 
@@ -77,14 +77,14 @@ The database consists of 11 relational tables.
 | Order_Coupons     | Coupon usage per order            |
 
 
-**Technologies Used**
+# **Technologies Used**
 PostgreSQL
 pgAdmin 4
 SQL
 CSV Dataset
 ER Modeling
 
-**Learning Outcomes**
+# **Learning Outcomes**
 
 Through this project, I gained practical experience in:
 
